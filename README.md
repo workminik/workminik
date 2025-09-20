@@ -6,6 +6,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog, my photoblog and that private Github account:
 
 <!-- POST-LIST:START -->
+- [lostfocus starred joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card)
+- [lostfocus pushed geovault](https://github.com/lostfocus/geovault/compare/ff494a8212...d4357ebe86)
 - [Blue](https://dominik.photos/photo/hFcBvQ85Ws)
 - [Eclipse](https://dominik.photos/photo/KRF5Q8YFGz)
 - [lostfocus starred pelias/pelias](https://github.com/pelias/pelias)
@@ -14,6 +16,4 @@ And yet, here is what I have done on my blog, my linkblog, my photoblog and that
 - [lostfocus pushed geovault](https://github.com/lostfocus/geovault/compare/0030d73798...56709c6c61)
 - [lostfocus pushed geovault](https://github.com/lostfocus/geovault/compare/24c7280ccf...0030d73798)
 - [lostfocus pushed dam](https://github.com/lostfocus/dam/compare/f73c149b41...ff57bae7af)
-- [2025-W37: Evenings](https://lostfocus.de/2025/09/14/2025-w37-evenings/)
-- [lostfocus pushed dam](https://github.com/lostfocus/dam/compare/c6e1ca045f...f73c149b41)
 <!-- POST-LIST:END -->

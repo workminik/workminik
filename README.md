@@ -3,7 +3,7 @@
 This is the account I use for _work-related_ stuff while [@lostfocus](https://github.com/lostfocus) is for private 
 and OpenSource things.
 
-And yet, here is what I have done on my blog, my linkblog, my photoblog and that private Github account:
+And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
 - [Hm.](https://lostfocus.de/2025/10/01/235166/)

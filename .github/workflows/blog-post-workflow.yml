@@ -16,5 +16,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "POST-LIST"
-          feed_list: "https://lostfocus.de/feed/,https://dominikschwind.com/links/feed,https://dominik.photos/feed,https://github.com/lostfocus.atom"
+          feed_list: "https://lostfocus.de/feed/,https://dominikschwind.com/links/feed,https://dominik.photos/feed"
           max_post_count: 10

@@ -6,6 +6,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
 - [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
 - [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
 - [2025-W40](https://lostfocus.de/2025/10/05/2025-w40/)
@@ -15,5 +16,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [With Friday having been a public holiday I start to realise how much better things…](https://lostfocus.de/2025/10/04/235195/)
 - [23](https://lostfocus.de/2025/10/02/235184/)
 - [Hm.](https://lostfocus.de/2025/10/01/235166/)
-- [2025-W39: myweek.wad](https://lostfocus.de/2025/09/28/2025-w39-myweek-wad/)
 <!-- POST-LIST:END -->

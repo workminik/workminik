@@ -6,6 +6,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [WordPress Post-ID to Permalink](https://lostfocus.de/2025/10/28/wordpress-post-id-to-permalink/)
 - [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 - [Take me to church](https://dominik.photos/photo/iuoDfaj7G4)
 - [Belvedere Mandinelli](https://dominik.photos/photo/KRL5Q8YFGz)
@@ -15,5 +16,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Every time I play around with ActivityPub I get a bit of an headache. And…](https://lostfocus.de/2025/10/05/235240/)
 - [2025-W40](https://lostfocus.de/2025/10/05/2025-w40/)
 - [If you like waffles &lpar;sorry!&rpar; you can follow this blog on Bluesky now.](https://lostfocus.de/2025/10/04/235214/)
-- [Alien](https://typesetinthefuture.com/2014/12/01/alien/)
 <!-- POST-LIST:END -->

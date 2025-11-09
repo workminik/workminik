@@ -6,6 +6,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [New photo](https://dominik.photos/photo/6ZegxZbenF)
 - [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
 - [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
@@ -15,5 +16,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Belvedere Mandinelli](https://dominik.photos/photo/KRL5Q8YFGz)
 - [I love the smell of commerce in the morning](https://dominik.photos/photo/IiyvBlcSU2)
 - [2025-W42: Meat and Potatoes](https://lostfocus.de/2025/10/19/2025-w42-meat-and-potatoes/)
-- [2025-W41: Mountains](https://lostfocus.de/2025/10/14/2025-w41-mountains/)
 <!-- POST-LIST:END -->

@@ -1,7 +1,8 @@
 # Hi there 👋
 
 This is the account I use for _work-related_ stuff while [@lostfocus](https://github.com/lostfocus) is for private 
-and OpenSource things.
+and OpenSource things.  
+(Even though *sometimes* these things might get mixed up in commits. My `.gitconfig` magic is a bit wonky.)
 
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 

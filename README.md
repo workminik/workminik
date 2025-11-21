@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [I&#39;m slightly sorry that you got a bunch of my old posts if you are…](https://lostfocus.de/2025/11/20/238330/)
 - [Manhunt](https://lostfocus.de/2025/11/17/manhunt/)
 - [Two weeks into the SailNavSim Jules Verne Trophy the field starts to spread out. Something…](https://lostfocus.de/2025/11/16/237614/)
 - [2025-W46: Desaturated](https://lostfocus.de/2025/11/16/2025-w46-desaturated/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
 - [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
 - [WordPress Post-ID to Permalink](https://lostfocus.de/2025/10/28/wordpress-post-id-to-permalink/)
-- [2025-W43: Salsiccia](https://lostfocus.de/2025/10/26/2025-w43-salsiccia/)
 <!-- POST-LIST:END -->

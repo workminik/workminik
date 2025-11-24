@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2025-W47: Vectors](https://lostfocus.de/2025/11/23/2025-w47-vectors/)
 - [Composerize](https://www.composerize.com/)
 - [I&#39;m slightly sorry that you got a bunch of my old posts if you are…](https://lostfocus.de/2025/11/20/238330/)
 - [Manhunt](https://lostfocus.de/2025/11/17/manhunt/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [New photo](https://dominik.photos/photo/6ZegxZbenF)
 - [You Don&#39;t Need an Outro](https://roytang.net/2025/11/outro/)
 - [2025-W44: Dice](https://lostfocus.de/2025/11/02/2025-w43-dice/)
-- [Jules-Verne-Trophy](https://lostfocus.de/2025/10/31/jules-verne-trophy/)
 <!-- POST-LIST:END -->

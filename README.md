@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2025-W49: 🕯️ 🕯️](https://lostfocus.de/2025/12/07/2025-w49-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [On open protocols – Manu](https://manuelmoreale.com/thoughts/on-open-protocols)
 - [The case for taking the same holiday again and again](https://www.bbc.com/travel/article/20251204-the-surprising-joy-of-going-back-to-the-same-place)
 - [Sleep Review, November December 1st to November December 2nd, 2025: Don&#39;t even ask. Turns out…](https://lostfocus.de/2025/12/02/240532/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Github Account Handling](https://lostfocus.de/2025/11/24/github-account-handling/)
 - [2025-W47: Vectors](https://lostfocus.de/2025/11/23/2025-w47-vectors/)
 - [Composerize](https://www.composerize.com/)
-- [I&#39;m slightly sorry that you got a bunch of my old posts if you are…](https://lostfocus.de/2025/11/20/238330/)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Blade Runner 2099 - Official Teaser | Prime Video](https://www.youtube.com/watch?v=0Dr8I_RyRCg)
 - [Worrying Signs of Getting Old](https://lostfocus.de/2026/07/21/worrying-signs-of-getting-old/)
 - [Twttr](https://lostfocus.de/2026/07/20/twttr/)
 - [2026-W29: Journey](https://lostfocus.de/2026/07/19/2026-w29-journey/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
 - [I&#39;m here to eat wurst and chew gum](https://dominik.photos/photo/oc1lrKdXja)
 - [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
-- [Dinosaurs of the Wild West | Official Kickstarter Trailer &lpar;4K&rpar;](https://www.youtube.com/watch?v=OfsgDuvv_t0)
 <!-- POST-LIST:END -->

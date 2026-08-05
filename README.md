@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Hank Green Situation is Weird and Sad](https://www.youtube.com/watch?v=TtvICev9sBE)
+- [Finally: rain](https://dominik.photos/photo/qdA31JYFdu)
 - [2026-W31: Technology](https://lostfocus.de/2026/08/02/2026-w31-technology/)
 - [&#39;Seems Like AI Slop&#39; Button Added to LinkedIn](https://petapixel.com/2026/07/31/seems-like-ai-slop-button-added-to-linkedin/)
 - [Viral New Zealand metal gig ruined by &quot;mess of shit, just completely spread all in the mosh pit&quot;](https://www.nme.com/news/music/viral-new-zealand-metal-gig-ruined-by-mess-of-shit-just-completely-spread-all-in-the-mosh-pit-3959454)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - [Blade Runner 2099 - Official Teaser | Prime Video](https://www.youtube.com/watch?v=0Dr8I_RyRCg)
 - [Worrying Signs of Getting Old](https://lostfocus.de/2026/07/21/worrying-signs-of-getting-old/)
-- [Twttr](https://lostfocus.de/2026/07/20/twttr/)
-- [2026-W29: Journey](https://lostfocus.de/2026/07/19/2026-w29-journey/)
 <!-- POST-LIST:END -->

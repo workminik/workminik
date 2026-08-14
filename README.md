@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Laibach: Live in Pyongyang &lpar;2015&rpar;](https://www.youtube.com/watch?v=UfFKARb-A_I)
 - [2026-W32: Chase](https://lostfocus.de/2026/08/09/2026-w32-chase/)
 - [Man arrested after dressing as Grim Reaper on hospital roof and staring at patients](https://www.independent.co.uk/news/uk/home-news/grim-reaper-wales-hospital-denbighshire-b3027735.html)
 - [The Hank Green Situation is Weird and Sad](https://www.youtube.com/watch?v=TtvICev9sBE)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Viral New Zealand metal gig ruined by &quot;mess of shit, just completely spread all in the mosh pit&quot;](https://www.nme.com/news/music/viral-new-zealand-metal-gig-ruined-by-mess-of-shit-just-completely-spread-all-in-the-mosh-pit-3959454)
 - [Cyberpunk](https://lostfocus.de/2026/07/26/cyberpunk/)
 - [2026-W30: Rewind](https://lostfocus.de/2026/07/26/2026-w30-rewind/)
-- [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 <!-- POST-LIST:END -->

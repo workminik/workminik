@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W33: Eclipse](https://lostfocus.de/2026/08/16/2026-w33-eclipse/)
 - [Morning Earworm #47: Go](https://lostfocus.de/2026/08/14/morning-earworm-46-go/)
 - [Laibach: Live in Pyongyang &lpar;2015&rpar;](https://www.youtube.com/watch?v=UfFKARb-A_I)
 - [2026-W32: Chase](https://lostfocus.de/2026/08/09/2026-w32-chase/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W31: Technology](https://lostfocus.de/2026/08/02/2026-w31-technology/)
 - [&#39;Seems Like AI Slop&#39; Button Added to LinkedIn](https://petapixel.com/2026/07/31/seems-like-ai-slop-button-added-to-linkedin/)
 - [Viral New Zealand metal gig ruined by &quot;mess of shit, just completely spread all in the mosh pit&quot;](https://www.nme.com/news/music/viral-new-zealand-metal-gig-ruined-by-mess-of-shit-just-completely-spread-all-in-the-mosh-pit-3959454)
-- [Cyberpunk](https://lostfocus.de/2026/07/26/cyberpunk/)
 <!-- POST-LIST:END -->

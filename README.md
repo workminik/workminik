@@ -7,14 +7,14 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid](https://www.youtube.com/watch?v=T5SGUWvYfqY)
+- [Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den](https://liveandletsfly.com/air-france-lounge-sauna-closed/)
+- [WebSub](https://lostfocus.de/2026/08/17/websub/)
+- [loupe-php/loupe: A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.](https://github.com/loupe-php/loupe)
 - [2026-W33: Eclipse](https://lostfocus.de/2026/08/16/2026-w33-eclipse/)
 - [Morning Earworm #47: Go](https://lostfocus.de/2026/08/14/morning-earworm-46-go/)
 - [Laibach: Live in Pyongyang &lpar;2015&rpar;](https://www.youtube.com/watch?v=UfFKARb-A_I)
 - [2026-W32: Chase](https://lostfocus.de/2026/08/09/2026-w32-chase/)
 - [Man arrested after dressing as Grim Reaper on hospital roof and staring at patients](https://www.independent.co.uk/news/uk/home-news/grim-reaper-wales-hospital-denbighshire-b3027735.html)
 - [The Hank Green Situation is Weird and Sad](https://www.youtube.com/watch?v=TtvICev9sBE)
-- [Finally: rain](https://dominik.photos/photo/qdA31JYFdu)
-- [2026-W31: Technology](https://lostfocus.de/2026/08/02/2026-w31-technology/)
-- [&#39;Seems Like AI Slop&#39; Button Added to LinkedIn](https://petapixel.com/2026/07/31/seems-like-ai-slop-button-added-to-linkedin/)
-- [Viral New Zealand metal gig ruined by &quot;mess of shit, just completely spread all in the mosh pit&quot;](https://www.nme.com/news/music/viral-new-zealand-metal-gig-ruined-by-mess-of-shit-just-completely-spread-all-in-the-mosh-pit-3959454)
 <!-- POST-LIST:END -->

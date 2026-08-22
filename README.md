@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [September Looming](https://lostfocus.de/2026/08/21/september-looming/)
 - [Inside the Jeselnik Book Club: How Anthony Jeselnik is making reading cool](https://www.latimes.com/entertainment-arts/books/story/2026-08-05/anthony-jeselnik-book-club)
 - [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)
 - [Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid](https://www.youtube.com/watch?v=T5SGUWvYfqY)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W33: Eclipse](https://lostfocus.de/2026/08/16/2026-w33-eclipse/)
 - [Morning Earworm #47: Go](https://lostfocus.de/2026/08/14/morning-earworm-46-go/)
 - [Laibach: Live in Pyongyang &lpar;2015&rpar;](https://www.youtube.com/watch?v=UfFKARb-A_I)
-- [2026-W32: Chase](https://lostfocus.de/2026/08/09/2026-w32-chase/)
 <!-- POST-LIST:END -->

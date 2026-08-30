@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Karaage chicken](https://dominik.photos/photo/JIZaEBgznC)
 - [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
 - [OM System Teases New Pen Series Camera Launch on September 9](https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/)
 - [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [September Looming](https://lostfocus.de/2026/08/21/september-looming/)
 - [Inside the Jeselnik Book Club: How Anthony Jeselnik is making reading cool](https://www.latimes.com/entertainment-arts/books/story/2026-08-05/anthony-jeselnik-book-club)
 - [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)
-- [Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid](https://www.youtube.com/watch?v=T5SGUWvYfqY)
 <!-- POST-LIST:END -->
